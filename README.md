@@ -84,8 +84,8 @@ Headspace, Mantras, Mouth, Serenity, Shared, Introverts, Practices, Funny, Super
 ## Conclusions:
 Though my Logistic Regression accuracy score was ultimately higher than the accuracy score of my Decision Tree model, the Decision tree model was more well fit than the Logistic Regression model.  We this evidenced by the difference between the train and test scores of each model.  The Logistic Regression train score was extremely high, at 98% accuracy, whereas the test score was about 86% accuracy. The discrepancy of scores suggests that my model was highly overfit.  The Decision tree model, by contrast had a train score of 81.7% accuracy and a test score of 91.8% accuracy, suggesting that the model was neither highly biased nor highly variant.  If I had to choose between models, I would choose the Logistic Regression model.
 
-### Presentation Slides:
-You can view my presentation slides by clicking the [link to the slides folder](./slides/).
+## Slides
+The slides to my presentation are [available here.](./slides/spirmed.pdf)
 
 ### Sources:
 1. Photo by Mohamed Nohassi on Unsplash
